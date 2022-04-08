@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "73506963-aa05-480c-9b04-3f33446cba60": {
+      "ProjectGuid": "73506963-aa05-480c-9b04-3f33446cba60",
+      "DisplayName": "Venetian.BW.Framework.V1.API",
+      "ColorIndex": 0
+    },
+    "584ce4ca-e83b-4ba1-9345-a7ac5217c11a": {
+      "ProjectGuid": "584ce4ca-e83b-4ba1-9345-a7ac5217c11a",
+      "DisplayName": "Venetian.BW.Framework.V1.Domain",
+      "ColorIndex": 1
+    },
+    "a66b8e07-0c63-49b6-8525-7027aa83144d": {
+      "ProjectGuid": "a66b8e07-0c63-49b6-8525-7027aa83144d",
+      "DisplayName": "Venetian.BW.Framework.V1.Infrastructure",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "39b7045c-5c37-4e10-a6a3-524699c7deaa": {
+      "ProjectGuid": "39b7045c-5c37-4e10-a6a3-524699c7deaa",
+      "DisplayName": "Venetian.BW.Framework.V1.CommonUtility",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
